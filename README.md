@@ -6,7 +6,8 @@
 
 Step1：阿里云注册，创建产品，得到三元组  
 Step2：三元组计算密码（阿里云自带工具，sha1）  
-Step3：MQTT.fx测试三元组的可用，topic和JSON的格式  
+Step3：MQTT.fx测试三元组的可用，topic和JSON的格式    
+        https://help.aliyun.com/zh/iot/getting-started/connect-a-device-to-iot-platform-by-using-mqtt-fx-1?spm=a2c4g.11186623.0.0.317d4956czyMtH    
 Step4：ESP8266，AT指令，七步上网，参考TXT  
 Step5：MCU与ESP通讯，关键在于转义字符，这里测了很多次。其次是程序架构  
     串口使用arduino的ReadString函数，效果还行但是第一个流只能读一半  
