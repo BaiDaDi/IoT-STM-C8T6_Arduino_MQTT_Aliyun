@@ -1,4 +1,4 @@
-# STM_Arduino_ESP_MQTT_Aliyun
+# IoT-STM-C8T6_Arduino_MQTT_Aliyun
 
 一种使用Arduino架构的STM32F103C8T6通过ESP8266模块以MQTT协议连接阿里云的解决方案
 
